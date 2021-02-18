@@ -1,0 +1,8 @@
+@media(max-width: 760px){
+    .top{
+        display: none;
+    }
+    .mobile_view{
+        display: block;
+    }
+}
